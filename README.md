@@ -8,6 +8,28 @@ Art gallery website
 ## How to use
 - open 'mainpage.html' with liveserver
 
+### Run the code by live server
+- Python2
+```bash
+python -m SimpleHTTPServer 8000 
+```
+
+- Python3
+```bash
+ python -m http.server 8000
+```
+
+- open browser
+ ```bash
+ Access http://127.0.0.1:8000
+ Navigate to http://127.0.0.1:8000/formative.html
+ ```
+ 
+## overview
+The headvar includes the navbar that link to each section of the page.
+
+## Dataset
+https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time?resource=download&select=artists.csv
 
 ## Contributing
 
