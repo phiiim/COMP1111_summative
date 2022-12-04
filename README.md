@@ -6,7 +6,7 @@ Art gallery website
 
 
 ## How to use
-- open 'mainpage.html' with liveserver
+- open `mainpage.html` with liveserver
 
 ### Run the code by live server
 - Python2
