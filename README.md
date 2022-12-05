@@ -33,7 +33,8 @@ The content divded in 3 parts which is artworks, artists, and dataset
 <img width="1440" alt="Screenshot 2565-12-04 at 11 23 00" src="https://user-images.githubusercontent.com/101024240/205487949-60ea0f50-0674-4608-a1f8-38669ba3cb38.png">
 
 The example of artworks section which is show the artworks in grid gallery
-<img width="1434" alt="Screenshot 2565-12-04 at 11 23 07" src="https://user-images.githubusercontent.com/101024240/205487773-ac2a1790-b3c7-4bab-8263-8aa102c03031.png">
+<img width="1440" alt="Screenshot 2565-12-05 at 12 53 59" src="https://user-images.githubusercontent.com/101024240/205642411-31be7ef5-5c93-4d1d-b25f-e50cfa9e6ab1.png">
+
 
 The example of artists section which is show the some  of artists information and biography
 <img width="1440" alt="Screenshot 2565-12-04 at 11 23 19" src="https://user-images.githubusercontent.com/101024240/205487758-3ea7f50a-480f-45e9-8e5c-2a1f3b5cc9d9.png">
