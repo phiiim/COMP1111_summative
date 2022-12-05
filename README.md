@@ -27,13 +27,13 @@ python -m SimpleHTTPServer 8000
  
 ## overview
 The head includes the navbar that link to each section of the page. search bar
-<img width="1439" alt="Screenshot 2565-12-04 at 11 14 19" src="https://user-images.githubusercontent.com/101024240/205487764-66826045-36a8-4e51-b106-b5d3827660dd.png">
+<img width="1440" alt="Screenshot 2565-12-05 at 12 53 59" src="https://user-images.githubusercontent.com/101024240/205642411-31be7ef5-5c93-4d1d-b25f-e50cfa9e6ab1.png">
 
 The content divded in 3 parts which is artworks, artists, and dataset
 <img width="1440" alt="Screenshot 2565-12-04 at 11 23 00" src="https://user-images.githubusercontent.com/101024240/205487949-60ea0f50-0674-4608-a1f8-38669ba3cb38.png">
 
 The example of artworks section which is show the artworks in grid gallery
-<img width="1440" alt="Screenshot 2565-12-05 at 12 53 59" src="https://user-images.githubusercontent.com/101024240/205642411-31be7ef5-5c93-4d1d-b25f-e50cfa9e6ab1.png">
+<img width="1440" alt="Screenshot 2565-12-04 at 11 23 00" src="https://user-images.githubusercontent.com/101024240/205642633-f025f1bc-723b-4d68-b5d6-35bc73dc12f7.png">
 
 
 The example of artists section which is show the some  of artists information and biography
