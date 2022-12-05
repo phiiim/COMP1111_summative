@@ -32,7 +32,7 @@ The head includes the navbar that link to each section of the page. search bar
 The content divded in 3 parts which is artworks, artists, and dataset
 <img width="1440" alt="Screenshot 2565-12-04 at 11 23 00" src="https://user-images.githubusercontent.com/101024240/205642832-07a77bc5-c379-404c-a669-4005a301d530.png">
 
-<img width="399" alt="Screenshot 2565-12-05 at 13 44 37" src="https://user-images.githubusercontent.com/101024240/205652386-abfa5079-7ca0-46f1-b59c-70d194b2aca7.png">
+<img width="399" alt="center" src="https://user-images.githubusercontent.com/101024240/205652386-abfa5079-7ca0-46f1-b59c-70d194b2aca7.png">
 
 The example of artworks section which is show the artworks in grid gallery
 <img width="1440" alt="Screenshot 2565-12-05 at 13 45 28" src="https://user-images.githubusercontent.com/101024240/205652482-37dbb12b-c1cf-44c2-a362-4bc69d13826d.png">
