@@ -42,7 +42,7 @@ The dataset is shown in a donut chart and ranks the top 15 artists from most art
 <img width="1440" alt="Screenshot 2565-12-04 at 11 13 53" src="https://user-images.githubusercontent.com/101024240/205487721-e69cb95d-df30-4bc8-81f1-790a50053837.png">
 
 ## Dataset
-The dataset used in json files
+The dataset is used in json files from
 https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time?resource=download&select=artists.csv
 
 
