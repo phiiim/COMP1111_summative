@@ -48,6 +48,3 @@ https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time?resource=dow
 
 ## Author
 Phichayapa Soranaraksopon 
-
-## License
-Copyright 
